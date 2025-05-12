@@ -1,0 +1,15 @@
+.inline-header {
+  color: azure;
+  background-color: blanchedalmond;
+  font-size: 40px;
+}
+
+.outline-header {
+  color: blueviolet;
+  background-color: yellowgreen;
+  font-size: 40px;
+}
+
+body {
+  background-color: black;
+}
